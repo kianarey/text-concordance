@@ -1,0 +1,185 @@
+Below is the text concordance:
+
+concord[0]:
+            A:  4  12  17  19  23  29  46  63
+        ABOUT:  54
+          AND:  19  26  28
+      ANGELOU:  1
+         ARCH:  42
+         ARMS:  8
+       AROUND:  22
+           AS:  18  18
+
+concord[1]:
+         BACK:  42
+         BEES:  23
+         BEND:  60
+        BOWED:  53
+      BREASTS:  44
+        BUILT:  4
+          BUT:  5  37
+           BY:  1
+
+concord[2]:
+         CANT:  37  40
+         CARE:  62
+        CAUSE:  63
+        CLICK:  59
+         COOL:  18
+         CURL:  11
+         CUTE:  4
+
+concord[3]:
+         DONT:  54
+         DOWN:  21
+
+concord[4]:
+         EYES:  25
+
+concord[5]:
+         FALL:  21
+      FASHION:  4
+         FEET:  28
+      FELLOWS:  20
+         FIRE:  25
+        FLASH:  26
+
+concord[6]:
+        GRACE:  45
+
+concord[7]:
+         HAIR:  60
+         HAND:  61
+         HAVE:  34  55
+        HEADS:  53
+        HEELS:  59
+         HIPS:  9
+         HIVE:  23
+        HONEY:  23
+
+concord[8]:
+            I:  5  7  17  24  39  41  54  58
+           IM:  4  6  12  29  46  63
+           IN:  8  25  27  28  35  42  59
+        INNER:  38
+         INTO:  17
+           IT:  57
+          ITS:  8  25  42  59
+
+concord[9]:
+          JOY:  28
+         JUMP:  54
+         JUST:  18  53
+
+concord[10]:
+        KNEES:  21
+
+concord[11]:
+         LIES:  3  6
+         LIPS:  11
+         LOUD:  55
+
+concord[12]:
+         MAKE:  57
+          MAN:  19
+         MAYA:  1
+           ME:  15  22  32  35  50  56  66
+          MEN:  34
+       MODELS:  4
+         MUCH:  36
+           MY:  3  8  9  10  11  25  26  27  28  38  42  43  44  45  53  59  60  61  62
+      MYSTERY:  38
+
+concord[13]:
+         NEED:  62
+          NOT:  4  53
+          NOW:  52
+
+concord[14]:
+           OF:  8  9  10  11  23  26  42  43  44  45  59  60  61  62
+           ON:  21
+           OR:  4  20  54  55
+        OUGHT:  57
+
+concord[15]:
+         PALM:  61
+      PASSING:  56
+   PHENOMENAL:  1  14  31  49  65
+ PHENOMENALLY:  13  30  48  64
+       PLEASE:  18
+       PRETTY:  3
+        PROUD:  57
+
+concord[16]:
+
+concord[17]:
+        REACH:  8
+         REAL:  55
+         RIDE:  44
+         ROOM:  17
+
+concord[18]:
+          SAY:  7  24  40  41  58
+       SECRET:  3
+          SEE:  35  40  56
+        SHOUT:  54
+         SHOW:  39
+         SIZE:  4
+        SMILE:  43
+           SO:  36
+         SPAN:  9
+        STAND:  20
+        START:  5
+         STEP:  10
+        STILL:  40
+       STRIDE:  10
+        STYLE:  45
+         SUIT:  4
+          SUN:  43
+        SWARM:  22
+        SWING:  27
+
+concord[19]:
+         TALK:  55
+        TEETH:  26
+         TELL:  5
+      TELLING:  6
+        THATS:  15  32  50  66
+          THE:  8  9  10  11  20  25  26  27  28  42  43  44  45  59  60  61  62
+        THEIR:  21
+         THEM:  5  39
+   THEMSELVES:  34
+         THEN:  22
+         THEY:  6  22  35  36  37  40  40
+        THINK:  6
+           TO:  4  5  19  39  55  57
+        TOUCH:  37
+          TRY:  36  39
+
+concord[20]:
+   UNDERSTAND:  52
+
+concord[21]:
+
+concord[22]:
+        WAIST:  27
+         WALK:  17
+         WHAT:  35
+         WHEN:  5  39  56
+        WHERE:  3
+          WHY:  53
+        WOMAN:  1  12  14  29  31  46  49  63  65
+        WOMEN:  3
+       WONDER:  3
+     WONDERED:  34
+
+concord[23]:
+
+concord[24]:
+          YOU:  18  52  56  57
+
+concord[25]:
+
+
+C:\Users\vangk\Desktop\Lab Experience\Lab Project Folder\1107\x64\Debug\1107.exe (process 14528) exited with code 0.
+Press any key to close this window . . .
